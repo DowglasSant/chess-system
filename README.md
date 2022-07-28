@@ -13,9 +13,9 @@ As seguintes tecnologias estão sendo utilizadas na construção desse projeto:
 Além dos rescursos e padrões:
 
 -POO:
-  Herança
-  Encapsulamento
-  Polimorfismo
-  Sobrecarga
+Herança
+Encapsulamento
+Polimorfismo
+Sobrecarga
 -Expressões Lambda
 -Exceptions e Programação Defensiva
